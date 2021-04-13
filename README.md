@@ -17,13 +17,14 @@ pip freeze > requierements.txt
 ```
 django-admin startproject nombre_proyecto
 ```
-Nota: Reemplazar `nombre_proyecto` por el nombre que se desee
+Nota: Reemplazar `nombre_proyecto` por el nombre deseado
 
 ## Creando una aplicación
 ```
 cd nombre_proyecto
-python manage.py startapp app
+python manage.py startapp nombre_app
 ```
+Nota: Reemplazar `nombre_app` por el nombre deseado
 
 ## Corriendo el proyecto
 ```
