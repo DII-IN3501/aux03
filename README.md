@@ -5,7 +5,7 @@
 python -m venv ev
 ev\Scripts\activate
 ```
-Nota: En caso de MacOS para activar el ambiente virtual es `ev/bin/activate`
+Nota: En caso de MacOS para activar el ambiente virtual el comando es `source ev/bin/activate`
 
 ## Instalando Django
 ```
